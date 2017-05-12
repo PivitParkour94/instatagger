@@ -1,0 +1,38 @@
+
+Session started - 2017-05-12 22:28:57
+Wrong login data!
+
+Session ended - 2017-05-12 22:30:12
+--------------------
+
+Session started - 2017-05-12 22:38:19
+Wrong login data!
+
+Session ended - 2017-05-12 22:38:54
+--------------------
+
+Session started - 2017-05-12 22:39:23
+Wrong login data!
+
+Session ended - 2017-05-12 22:40:01
+--------------------
+
+Session started - 2017-05-12 22:44:10
+Wrong login data!
+Session started - 2017-05-12 22:54:22
+Logged in successfully!
+Session started - 2017-05-12 22:58:25
+Logged in successfully!
+Tag [1/[]]--> b'#dog'
+[1/100]https://www.instagram.com/p/BT_eyzPFcR0/?tagged=dog
+[2/100]https://www.instagram.com/p/BT-K3T-hL1W/?tagged=dog
+[3/100]https://www.instagram.com/p/BT_bn3zDrrC/?tagged=dog
+[4/100]https://www.instagram.com/p/BT9yb93Dfdg/?tagged=dog
+[5/100]https://www.instagram.com/p/BT_dHR0huEy/?tagged=dog
+[6/100]https://www.instagram.com/p/BT_fA9gDX1I/?tagged=dog
+[7/100]https://www.instagram.com/p/BT_b87KgDn8/?tagged=dog
+[8/100]https://www.instagram.com/p/BT_fbqKBlpA/?tagged=dog
+[9/100]https://www.instagram.com/p/BT_j5KVDZdG/?tagged=dog
+[10/100]https://www.instagram.com/p/BT_j4-0AB2z/?tagged=dog
+[11/100]https://www.instagram.com/p/BT_j4-Rl2NF/?tagged=dog
+[12/100]https://www.instagram.com/p/BT_j4k9gICy/?tagged=dog
